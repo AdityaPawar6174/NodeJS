@@ -1,0 +1,6 @@
+// Theory on the NodeJS on Day 6
+
+// sync I/O 
+// Async I/O 
+
+// Libuv library of NodeJS
