@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "Tamera",
+    "email": "twhisby0@technorati.com",
+    "branch": "IT"
+  },
+  {
+    "id": 2,
+    "name": "Nichols",
+    "email": "ntieman1@facebook.com",
+    "branch": "CS"
+  },
+  {
+    "id": 3,
+    "name": "Mallissa",
+    "email": "mmacpeice2@lycos.com",
+    "branch": "CS"
+  },
+  {
+    "id": 4,
+    "name": "Onfroi",
+    "email": "omacnucator3@slideshare.net",
+    "branch": "EC"
+  },
+  {
+    "id": 5,
+    "name": "Rubia",
+    "email": "rborrington4@deliciousdays.com",
+    "branch": "EC"
+  },
+  {
+    "id": 6,
+    "name": "Monah",
+    "email": "mvayro5@feedburner.com",
+    "branch": "AI"
+  },
+  {
+    "id": 7,
+    "name": "Breena",
+    "email": "bbaylie6@nytimes.com",
+    "branch": "CS"
+  },
+  { "id": 8, "name": "Salomon", "email": "sbow7@buzzfeed.com", "branch": "IT" },
+  {
+    "id": 9,
+    "name": "Jennette",
+    "email": "jgrinsted8@flavors.me",
+    "branch": "AI"
+  },
+  {
+    "id": 10,
+    "name": "Jayson",
+    "email": "jgrewar9@berkeley.edu",
+    "branch": "CS"
+  },
+  {
+    "id": 11,
+    "name": "aditya",
+    "branch": "CS",
+    "email": "adityabpawar393@gmail.com"
+  }
+]
