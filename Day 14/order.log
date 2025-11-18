@@ -1,0 +1,6 @@
+{
+  message: 'Order is not Placed',
+  level: 'error',
+  service: 'order-service',
+  timestamp: '2025-11-04T12:58:26.437Z'
+}

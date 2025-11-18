@@ -1,0 +1,12 @@
+{
+  message: 'Payment Received',
+  level: 'info',
+  service: 'payment-service',
+  timestamp: '2025-11-04T12:58:26.436Z'
+}
+{
+  message: 'Request to /api/payment is processed',
+  level: 'info',
+  durationMs: 1,
+  timestamp: '2025-11-04T13:11:57.017Z'
+}
