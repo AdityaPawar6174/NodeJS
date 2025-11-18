@@ -1,0 +1,30 @@
+{
+  message: 'Fetched all employees successfully',
+  level: 'info',
+  service: 'application-service',
+  timestamp: '2025-11-04T14:07:21.432Z'
+}
+{
+  message: 'Fetched employee data successfully: 15',
+  level: 'info',
+  service: 'application-service',
+  timestamp: '2025-11-04T14:08:11.032Z'
+}
+{
+  message: 'Employee deleted successfully: 15',
+  level: 'info',
+  service: 'application-service',
+  timestamp: '2025-11-04T14:08:32.573Z'
+}
+{
+  message: 'Fetched all employees successfully',
+  level: 'info',
+  service: 'application-service',
+  timestamp: '2025-11-04T14:08:51.622Z'
+}
+{
+  message: 'Employee not found: 15',
+  level: 'warn',
+  service: 'application-service',
+  timestamp: '2025-11-04T14:08:56.159Z'
+}

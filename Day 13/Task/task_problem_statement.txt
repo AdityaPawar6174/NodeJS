@@ -1,0 +1,7 @@
+
+// a progeam which will show employees details 
+// (id, name, designation, experience (no. of years), salary)
+
+// get all , get one by if, post, deletion, and updation with patch 
+
+// all functions in differnet file and call in single file ---> using routes concept
