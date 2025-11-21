@@ -1,0 +1,4 @@
+-------------------------------
+    Inside the Sample.txt
+-------------------------------
+This file is piped to input.txt

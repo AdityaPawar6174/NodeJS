@@ -1,0 +1,3 @@
+Hello, this is a writable stream example.
+Writing data in chunks to the output file.
+This is the end of the writable stream.
